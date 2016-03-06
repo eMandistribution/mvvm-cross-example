@@ -1,1 +1,2 @@
-# mvvm-cross-example
+# Mvvm cross example
+# Simple app for MvvmCross
